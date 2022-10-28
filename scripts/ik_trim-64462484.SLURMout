@@ -1,0 +1,7 @@
+TrimmomaticSE: Started with arguments:
+ -phred33 SRR1537399.fastq trimmed/SRR1537399_trimmed.fq.gz ILLUMINACLIP:/mnt/home/kaufm202/miniconda3/envs/plb812/share/trimmomatic-0.39-2/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 MINLEN:36
+Automatically using 1 threads
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+slurmstepd: error: *** JOB 64462484 ON css-060 CANCELLED AT 2022-10-28T14:05:48 ***

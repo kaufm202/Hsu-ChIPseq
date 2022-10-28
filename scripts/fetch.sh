@@ -1,5 +1,5 @@
 #!/bin/bash
-#BATCH --time=12:00:00
+#SBATCH --time=12:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
@@ -16,7 +16,8 @@ cd ${HOME}/Hsu-Rotation/data
 export PATH="${HOME}/miniconda3/envs/plb812/bin:${PATH}"
 export LD_LIBRARY_PATH="${HOME}/miniconda3/envs/plb812/lib:${LD_LIBRARY_PATH}"
 
-papers="cell-2016 pnas-2022"
+#papers="cell-2016 pnas-2022"
+papers="pnas-2022"
 
 for paper in $papers
 do
