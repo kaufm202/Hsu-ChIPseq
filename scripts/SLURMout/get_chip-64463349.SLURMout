@@ -1,0 +1,160 @@
+
+2022-10-28T18:38:02 prefetch.2.11.0: 1) Downloading 'SRR16905150'...
+2022-10-28T18:38:02 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:38:47 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:38:48 prefetch.2.11.0:  'SRR16905150' is valid
+2022-10-28T18:38:48 prefetch.2.11.0: 1) 'SRR16905150' was downloaded successfully
+2022-10-28T18:38:48 prefetch.2.11.0: 'SRR16905150' has 0 unresolved dependencies
+
+2022-10-28T18:38:48 prefetch.2.11.0: 2) Downloading 'SRR16905149'...
+2022-10-28T18:38:48 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:39:20 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:39:21 prefetch.2.11.0:  'SRR16905149' is valid
+2022-10-28T18:39:21 prefetch.2.11.0: 2) 'SRR16905149' was downloaded successfully
+2022-10-28T18:39:22 prefetch.2.11.0: 'SRR16905149' has 0 unresolved dependencies
+
+2022-10-28T18:39:22 prefetch.2.11.0: 3) Downloading 'SRR16905152'...
+2022-10-28T18:39:22 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:41:02 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:41:04 prefetch.2.11.0:  'SRR16905152' is valid
+2022-10-28T18:41:04 prefetch.2.11.0: 3) 'SRR16905152' was downloaded successfully
+2022-10-28T18:41:04 prefetch.2.11.0: 'SRR16905152' has 0 unresolved dependencies
+
+2022-10-28T18:41:04 prefetch.2.11.0: 4) Downloading 'SRR16905151'...
+2022-10-28T18:41:04 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:41:33 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:41:34 prefetch.2.11.0:  'SRR16905151' is valid
+2022-10-28T18:41:34 prefetch.2.11.0: 4) 'SRR16905151' was downloaded successfully
+2022-10-28T18:41:34 prefetch.2.11.0: 'SRR16905151' has 0 unresolved dependencies
+
+2022-10-28T18:41:34 prefetch.2.11.0: 5) Downloading 'SRR16905156'...
+2022-10-28T18:41:35 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:42:07 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:42:08 prefetch.2.11.0:  'SRR16905156' is valid
+2022-10-28T18:42:08 prefetch.2.11.0: 5) 'SRR16905156' was downloaded successfully
+2022-10-28T18:42:08 prefetch.2.11.0: 'SRR16905156' has 0 unresolved dependencies
+
+2022-10-28T18:42:08 prefetch.2.11.0: 6) Downloading 'SRR16905155'...
+2022-10-28T18:42:08 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:43:27 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:43:29 prefetch.2.11.0:  'SRR16905155' is valid
+2022-10-28T18:43:29 prefetch.2.11.0: 6) 'SRR16905155' was downloaded successfully
+2022-10-28T18:43:29 prefetch.2.11.0: 'SRR16905155' has 0 unresolved dependencies
+
+2022-10-28T18:43:29 prefetch.2.11.0: 7) Downloading 'SRR16905148'...
+2022-10-28T18:43:29 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:44:06 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:44:08 prefetch.2.11.0:  'SRR16905148' is valid
+2022-10-28T18:44:08 prefetch.2.11.0: 7) 'SRR16905148' was downloaded successfully
+2022-10-28T18:44:08 prefetch.2.11.0: 'SRR16905148' has 0 unresolved dependencies
+
+2022-10-28T18:44:08 prefetch.2.11.0: 8) Downloading 'SRR16905147'...
+2022-10-28T18:44:08 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:45:12 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:45:14 prefetch.2.11.0:  'SRR16905147' is valid
+2022-10-28T18:45:14 prefetch.2.11.0: 8) 'SRR16905147' was downloaded successfully
+2022-10-28T18:45:14 prefetch.2.11.0: 'SRR16905147' has 0 unresolved dependencies
+
+2022-10-28T18:45:14 prefetch.2.11.0: 9) Downloading 'SRR15286169'...
+2022-10-28T18:45:14 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:46:00 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:46:02 prefetch.2.11.0:  'SRR15286169' is valid
+2022-10-28T18:46:02 prefetch.2.11.0: 9) 'SRR15286169' was downloaded successfully
+2022-10-28T18:46:02 prefetch.2.11.0: 'SRR15286169' has 0 unresolved dependencies
+
+2022-10-28T18:46:02 prefetch.2.11.0: 10) Downloading 'SRR15286167'...
+2022-10-28T18:46:02 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:48:07 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:48:09 prefetch.2.11.0:  'SRR15286167' is valid
+2022-10-28T18:48:09 prefetch.2.11.0: 10) 'SRR15286167' was downloaded successfully
+2022-10-28T18:48:09 prefetch.2.11.0: 'SRR15286167' has 0 unresolved dependencies
+
+2022-10-28T18:48:09 prefetch.2.11.0: 11) Downloading 'SRR16905157'...
+2022-10-28T18:48:10 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:48:57 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:48:59 prefetch.2.11.0:  'SRR16905157' is valid
+2022-10-28T18:48:59 prefetch.2.11.0: 11) 'SRR16905157' was downloaded successfully
+2022-10-28T18:48:59 prefetch.2.11.0: 'SRR16905157' has 0 unresolved dependencies
+
+2022-10-28T18:49:00 prefetch.2.11.0: 12) Downloading 'SRR16905158'...
+2022-10-28T18:49:00 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:49:40 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:49:43 prefetch.2.11.0:  'SRR16905158' is valid
+2022-10-28T18:49:43 prefetch.2.11.0: 12) 'SRR16905158' was downloaded successfully
+2022-10-28T18:49:43 prefetch.2.11.0: 'SRR16905158' has 0 unresolved dependencies
+
+2022-10-28T18:49:43 prefetch.2.11.0: 13) Downloading 'SRR15286163'...
+2022-10-28T18:49:43 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:52:04 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:52:07 prefetch.2.11.0:  'SRR15286163' is valid
+2022-10-28T18:52:07 prefetch.2.11.0: 13) 'SRR15286163' was downloaded successfully
+2022-10-28T18:52:07 prefetch.2.11.0: 'SRR15286163' has 0 unresolved dependencies
+
+2022-10-28T18:52:07 prefetch.2.11.0: 14) Downloading 'SRR16905153'...
+2022-10-28T18:52:07 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:53:56 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:53:59 prefetch.2.11.0:  'SRR16905153' is valid
+2022-10-28T18:53:59 prefetch.2.11.0: 14) 'SRR16905153' was downloaded successfully
+2022-10-28T18:53:59 prefetch.2.11.0: 'SRR16905153' has 0 unresolved dependencies
+
+2022-10-28T18:53:59 prefetch.2.11.0: 15) Downloading 'SRR16905154'...
+2022-10-28T18:53:59 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:54:57 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:55:00 prefetch.2.11.0:  'SRR16905154' is valid
+2022-10-28T18:55:00 prefetch.2.11.0: 15) 'SRR16905154' was downloaded successfully
+2022-10-28T18:55:00 prefetch.2.11.0: 'SRR16905154' has 0 unresolved dependencies
+
+2022-10-28T18:55:00 prefetch.2.11.0: 16) Downloading 'SRR15286168'...
+2022-10-28T18:55:00 prefetch.2.11.0:  Downloading via HTTPS...
+2022-10-28T18:58:12 prefetch.2.11.0:  HTTPS download succeed
+2022-10-28T18:58:15 prefetch.2.11.0:  'SRR15286168' is valid
+2022-10-28T18:58:15 prefetch.2.11.0: 16) 'SRR15286168' was downloaded successfully
+2022-10-28T18:58:15 prefetch.2.11.0: 'SRR15286168' has 0 unresolved dependencies
+Rejected 23196880 READS because of filtering out non-biological READS
+Read 23196880 spots for SRR16905150.sra
+Written 23196880 spots for SRR16905150.sra
+Rejected 22783325 READS because of filtering out non-biological READS
+Read 22783325 spots for SRR16905149.sra
+Written 22783325 spots for SRR16905149.sra
+Rejected 31425303 READS because of filtering out non-biological READS
+Read 31425303 spots for SRR16905152.sra
+Written 31425303 spots for SRR16905152.sra
+Rejected 22083723 READS because of filtering out non-biological READS
+Read 22083723 spots for SRR16905151.sra
+Written 22083723 spots for SRR16905151.sra
+Rejected 24485286 READS because of filtering out non-biological READS
+Read 24485286 spots for SRR16905156.sra
+Written 24485286 spots for SRR16905156.sra
+Rejected 27438880 READS because of filtering out non-biological READS
+Read 27438880 spots for SRR16905155.sra
+Written 27438880 spots for SRR16905155.sra
+Rejected 26503190 READS because of filtering out non-biological READS
+Read 26503190 spots for SRR16905148.sra
+Written 26503190 spots for SRR16905148.sra
+Rejected 18349396 READS because of filtering out non-biological READS
+Read 18349396 spots for SRR16905147.sra
+Written 18349396 spots for SRR16905147.sra
+Rejected 22783325 READS because of filtering out non-biological READS
+Read 22783325 spots for SRR15286169.sra
+Written 22783325 spots for SRR15286169.sra
+Rejected 26503190 READS because of filtering out non-biological READS
+Read 26503190 spots for SRR15286167.sra
+Written 26503190 spots for SRR15286167.sra
+Rejected 40481435 READS because of filtering out non-biological READS
+Read 40481435 spots for SRR16905157.sra
+Written 40481435 spots for SRR16905157.sra
+Rejected 36602941 READS because of filtering out non-biological READS
+Read 36602941 spots for SRR16905158.sra
+Written 36602941 spots for SRR16905158.sra
+Rejected 40481435 READS because of filtering out non-biological READS
+Read 40481435 spots for SRR15286163.sra
+Written 40481435 spots for SRR15286163.sra
+Rejected 38987588 READS because of filtering out non-biological READS
+Read 38987588 spots for SRR16905153.sra
+Written 38987588 spots for SRR16905153.sra
+Rejected 38170434 READS because of filtering out non-biological READS
+Read 38170434 spots for SRR16905154.sra
+Written 38170434 spots for SRR16905154.sra
+Rejected 38170434 READS because of filtering out non-biological READS
+Read 38170434 spots for SRR15286168.sra
+Written 38170434 spots for SRR15286168.sra

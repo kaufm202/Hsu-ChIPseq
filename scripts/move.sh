@@ -1,13 +1,4 @@
 #!/bin/bash
-#SBATCH --time=12:00:00
-#SBATCH --nodes=1
-#SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=1
-#SBATCH --mem=32GB
-#SBATCH --job-name fastqc
-#SBATCH --output=%x-%j.SLURMout
-#SBATCH --mail-type=ALL
-#SBATCH --mail-user=kaufm202@msu.edu
 
 #Change to current working directory
 cd ${HOME}/Hsu-Rotation/data
@@ -30,8 +21,11 @@ do
 	
 	for sra in $sra_list
 	do
-		#Run fastqc quality testing
-		fastqc -o ../../fastqc/raw_fastqc raw/${sra}.fastq
+		cd $sra
+		mv *.fastq ../raw/
+		rm *.sra
+		cd ..
+		rmdir $sra
 	done
 
 	cd ..
